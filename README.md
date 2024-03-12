@@ -1,6 +1,7 @@
 ### Hi there, I'm Ademide👋
 
 I'm currently working on frontend development.
+
 Based in Lagos, Nigeria.
 
 
