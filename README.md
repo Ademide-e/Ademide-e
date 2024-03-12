@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Ademide👋
+
+I'm currently working on frontend development.
+Based in Lagos, Nigeria.
+
 
 <!--
 **Ademide-e/Ademide-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
